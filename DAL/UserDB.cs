@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace Knowledge_accounting_system.Models
+namespace DAL
 {
     public class UserDB
     {
