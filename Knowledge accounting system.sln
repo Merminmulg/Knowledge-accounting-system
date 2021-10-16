@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Knowledge accounting system
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Knowledge accounting system.Tests", "Knowledge accounting system.Tests\Knowledge accounting system.Tests.csproj", "{01377806-4C74-4600-984E-627B06B01196}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{6F8B1573-617C-4BCA-A0B5-5E3B569C09E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BL", "BL\BL.csproj", "{CEB8C001-26D0-4DA4-80C5-2EAF855D5E61}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{01377806-4C74-4600-984E-627B06B01196}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{01377806-4C74-4600-984E-627B06B01196}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{01377806-4C74-4600-984E-627B06B01196}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F8B1573-617C-4BCA-A0B5-5E3B569C09E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F8B1573-617C-4BCA-A0B5-5E3B569C09E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F8B1573-617C-4BCA-A0B5-5E3B569C09E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F8B1573-617C-4BCA-A0B5-5E3B569C09E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEB8C001-26D0-4DA4-80C5-2EAF855D5E61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEB8C001-26D0-4DA4-80C5-2EAF855D5E61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEB8C001-26D0-4DA4-80C5-2EAF855D5E61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEB8C001-26D0-4DA4-80C5-2EAF855D5E61}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
